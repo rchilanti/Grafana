@@ -4,4 +4,5 @@ Criar um dashboard do tipo Text e adicionar o código abaixo em Content, com Mod
 
 
   Ver o código no arquivo codigo-cabeçalho-dashboard.txt
+  <br>
   https://github.com/rchilanti/Grafana/blob/main/codigo-cabe%C3%A7alho-dashboard.txt
