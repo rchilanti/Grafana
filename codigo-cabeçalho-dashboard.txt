@@ -20,5 +20,5 @@ Se quiser utilizar imagem da internet usar o código:
 <img src="https://URLDAIMAGEM.png" alt="logo" style="width: 250px; height: 65px;">
 
 
- Se quiser utilizar uma imagem local, coloca a imagem dentro de /usr/share/grafana/public/img/ e usar o código:
+ Se quiser utilizar uma imagem local, colocar a imagem dentro de /usr/share/grafana/public/img/ e usar o código:
 <img src="/public/img/logo.png" alt="logo" style="width: 250px; height: 65px;">
